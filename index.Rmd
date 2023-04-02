@@ -1,0 +1,39 @@
+---
+title: "Jehangeer"
+image: "profile.jpg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/aswanijehangeer/"
+  - label: GitHub
+    url: "https://github.com/aswanijehangeer"
+  - label: Twitter
+    url: "https://twitter.com/_aswanijahangir"
+output:
+  postcards::solana
+---
+ 
+## Bio
+
+As a recent statistics graduate from Quaid-e-Azam University Islamabad and an accomplished R Developer, I have a solid foundation in statistical analysis, data science, and web development. I'm especially interested in applying my knowledge of RShiny, statistics, and data science to provide data-driven insights that drive business growth and success.
+
+Eager to interact with other industry professionals and learn about new opportunities.
+
+**Looking for opportunities in Data Science related industry.**
+
+## Education
+
+**Quaid-e-Azam University** | Islamabad Pakistan
+
+BS Statistics | June 2021 - January 2023
+
+**Akhuwat College** | Lahore, Pakistan
+
+High Secondary | August 2016 - May 2018
+
+## Experience
+
+**Freelance** | Junior Data Scientist, R Shiny Developer | August 2018 - Present
+
+
+
+
